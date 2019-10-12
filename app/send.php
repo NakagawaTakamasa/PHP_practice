@@ -2,6 +2,7 @@
 <head>
 <meta charset="UTF-8">
 </head>
+
 <body>
   <h1>練習フォーム</h1>
   <p>次のページへデータを渡してみよう！</p>
@@ -14,4 +15,5 @@
   <input type="submit" value="確認する">
   </form>
 </body>
+
 </html>

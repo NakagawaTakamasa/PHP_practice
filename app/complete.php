@@ -4,7 +4,6 @@ $user_name = $_POST['user_name'];
 $hobby = $_POST['hobby'];
 ?>
 
-
 <html>
 <head>
 <meta charset="UTF-8">
