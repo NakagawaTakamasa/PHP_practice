@@ -7,7 +7,7 @@ $place = chr(mt_rand(65,66));
 if($attend === 0){
   echo 'パーティーは欠席にて承りました。<br>';
 }else{
-  echo 'パーティーは出席にて承りました。<br>';
+  echo 'パーティーは出席にて承りました。<div class=""></div><br>';
   if($place === 'A'){
     echo '会場はAホテルでございます。';
   }elseif($place === 'B'){
